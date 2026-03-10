@@ -10,7 +10,6 @@ Build a Named Entity Recognition (NER) model that can automatically identify and
 
 ## DESIGN STEPS
 
-### STEP 1:
 ## STEP 1
 Import necessary libraries and set up the device (CPU or GPU).
 
